@@ -19,7 +19,7 @@ This project involves a setup created using GNU Radio and a Software Defined Rad
 
 ## Usage
 
-Execute the `.grc` file with GNU Radio. This will generate a Python script (`get_FM.py`). Run this script to start the FM radio capture or execute the `.grc` in gnuradio:
+Execute the `.grc` file with GNU Radio. This will generate a Python script (`get_FM.py`). Run this script to start the FM radio capture or execute the `.grc` in GNU Radio:
 
 ```bash
 python get_FM.py
